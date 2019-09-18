@@ -39,7 +39,14 @@
 - step inside of elevator(Optional press close door button).
 - Press button for the designated floor
 
-### Elevator Support
-- The elevator supports the user by getting them to their floor destination.
-- The elevator might provide feedback on the current floor or next corresponding floor. 
-- The elevator might indicate the current floor on a screen. 
+### Elevator Support. 
+- The elevator supports the user by giving choices to desired floor.
+- Guard rails for a person in any condition. 
+- Emergency button or phone to call a support analyst.
+
+### Elevator Feedback. 
+- The elevator can indicate the current floor.
+- The elevator speak to the user on the designated floor.
+
+
+
