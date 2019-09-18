@@ -12,7 +12,7 @@
 
 
 <img src="https://github.com/Man-on-thoughts/hw1/blob/master/images/IMG_1446.png" alt="imageTwo">
-<img src="https://github.com/Man-on-thoughts/hw1/blob/master/images/IMG_1447.png" alt="imageThree">
+
 
 <h1>Inside Panel</h1>
   <ul>
