@@ -1,4 +1,4 @@
-# hw1
+# homework-1 for CS-5332
 
 
 
@@ -10,8 +10,9 @@
 </ul>
 
 
-<img src="https://github.com/Man-on-thoughts/hw1/blob/master/images/IMG_1446.png" alt="imageTwo">
-<h1>Inside Panel</h1>
+
+  <img src="https://github.com/Man-on-thoughts/hw1/blob/master/images/IMG_1446.png" alt="imageTwo">
+  <h1>Inside Elevator panel</h1>
   <ul>
     <li>The instructions are not clear for the user.</li>
     <li>This is a bad interface and can confuse the user. For example what is 2R?</li>
@@ -23,3 +24,11 @@
 
 <h1>A demo of the elevator</h1>
 
+---
+
+
+### The common use of elevators.
+
+- Getting to point A to point B.
+- An easier way to move luggage.
+- helping handicap people.
