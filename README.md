@@ -32,3 +32,14 @@
 - Getting to point A to point B.
 - An easier way to move luggage.
 - helping handicap people.
+
+
+### How the user interacts.
+- Call the elevator and wait for elevator. Next wait for the elevator to open its door.
+- step inside of elevator(Optional press close door button).
+- Press button for the designated floor
+
+### Elevator Support
+- The elevator supports the user by getting them to their floor destination.
+- The elevator might provide feedback on the current floor or next corresponding floor. 
+- The elevator might indicate the current floor on a screen. 
