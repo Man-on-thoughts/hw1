@@ -10,10 +10,7 @@
 </ul>
 
 
-
 <img src="https://github.com/Man-on-thoughts/hw1/blob/master/images/IMG_1446.png" alt="imageTwo">
-
-
 <h1>Inside Panel</h1>
   <ul>
     <li>The instructions are not clear for the user.</li>
