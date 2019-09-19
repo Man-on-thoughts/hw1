@@ -53,3 +53,10 @@
 <img src="https://github.com/Man-on-thoughts/hw1.ClassID80.Alaniz/blob/master/images/Image.jpeg" alt="sketch">
 
 
+
+
+
+
+
+
+
